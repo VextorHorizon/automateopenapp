@@ -1,0 +1,12 @@
+[
+    {
+        "name": "github",
+        "type": "url",
+        "path": "https://github.com/VextorHorizon"
+    },
+    {
+        "name": "spotify",
+        "type": "app",
+        "path": "https://github.com/VextorHorizon"       
+    }
+]

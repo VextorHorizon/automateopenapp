@@ -1,0 +1,19 @@
+[
+    {
+        "name": "spotify",
+        "type": "app",
+        "path": "https://github.com/VextorHorizon"       
+    },
+    {
+        "name": "github",
+        "type": "url",
+        "path": "https://github.com/VextorHorizon"
+    },
+    {
+        "name": "Vscode",
+        "type": "app",
+        "path": "C:\\Users\\copte\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    }
+
+
+]

@@ -34,4 +34,3 @@ for data in app_data:
             print(f"{app_name} not found at path")
     else:
         print(f"Unknown type for {app_type}!")
-
